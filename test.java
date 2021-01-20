@@ -1,1 +1,1 @@
-Hello I am doing somme change
+Hello I am doing some change
