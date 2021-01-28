@@ -1,3 +1,3 @@
-Hello I am doing some change- devA changes
-hi this is second line
+Hello I am doing some change- devc changes
+hi this is second lines
 hello this is devb changes
